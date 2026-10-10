@@ -6,8 +6,9 @@
 Create visualizations to explore population data using a bar chart and a histogram.
 
 ### Dataset
-Population data from Our World in Data, covering historical population estimates. The analysis uses the latest available year in the dataset, 2023.
+The population dataset was obtained from [Our World in Data](https://ourworldindata.org/grapher/population).
 
+The dataset contains historical population estimates. This project uses the latest available year, 2023.
 ### Tools and Libraries
 - Python
 - Pandas
